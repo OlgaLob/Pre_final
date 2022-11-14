@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\bin\Debug\net6.0\Ex.exe
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\bin\Debug\net6.0\Ex.deps.json
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\bin\Debug\net6.0\Ex.runtimeconfig.json
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\bin\Debug\net6.0\Ex.dll
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\bin\Debug\net6.0\Ex.pdb
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\Ex.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\Ex.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\Ex.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\Ex.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\Ex.dll
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\refint\Ex.dll
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\Ex.pdb
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\Ex.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Git_edu\Pre_final\Ex\obj\Debug\net6.0\ref\Ex.dll
